@@ -12,7 +12,7 @@
 </a>
 </div>
 
-<p align="center"><b>Password:</b> <code>gitlab</code></p>
+<p align="center"><b>Password:</b> <code>Solara</code></p>
 
 ---
 
